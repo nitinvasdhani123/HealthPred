@@ -1,0 +1,4 @@
+[01-Jul-2024 18:15:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/anuragseervi/healthpred/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/anuragseervi/healthpred/config/database.php on line 19
